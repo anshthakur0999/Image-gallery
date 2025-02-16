@@ -1,41 +1,41 @@
-Image Gallery Project
+# Image Gallery Project
 
-Description
+A responsive image gallery web application featuring hover effects, grayscale-to-color transitions, and caption overlays.
 
-This project is a simple yet visually appealing image gallery built using HTML and CSS. It displays a collection of images with animations applied to enhance the user experience.
+## Features
 
-Features
+- Responsive grid layout with flexbox
+- Grayscale to color image transitions on hover
+- Smooth scaling animations
+- Caption overlays with fade-in effects
+- Shadow effects on hover
+- Mobile-friendly design
 
-Responsive layout for different screen sizes.
+## Technologies Used
 
-Smooth animations on images using CSS effects.
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
 
-Organized image display in a grid format.
 
-Clean and modern design.
+## Setup
 
-Technologies Used
+1. Clone or download this repository
+2. Open `index.html` in a modern web browser
+3. No build process or dependencies required
 
-HTML: Structure of the gallery.
+## CSS Features
 
-CSS: Styling and animations.
+- CSS Grid system for responsive layout
+- CSS Transitions for smooth hover effects
+- Linear gradient overlays for captions
+- Flexbox for gallery organization
+- CSS Transform for card scaling effects
 
-How to Use
+## Browser Support
 
-Clone or download the repository.
-
-Ensure all image files (image1.jpg, image2.jpeg, etc.) are in the project directory.
-
-Open index.html in a web browser.
-
-Files Included
-
-index.html → Main HTML structure of the gallery.
-
-style.css → Contains the CSS styles and effects.
-
-Future Enhancements
-
-Add JavaScript for interactive effects (e.g., lightbox or filtering).
-
-Include more animations and hover effects.
+Works in all modern browsers:
+- Chrome
+- Firefox
+- Safari
+- Edge
